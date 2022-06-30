@@ -1,2 +1,2 @@
 # My-Portofolio
-a website you might like and if youwant you can change it
+A website you might like and if you want you can change it!
